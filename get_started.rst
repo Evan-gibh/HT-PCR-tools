@@ -2,7 +2,7 @@ get started
 ================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    step1
    step2
