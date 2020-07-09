@@ -1,2 +1,3 @@
-# HT-PCR-tools
+HT-PCR-tools
+================
 A shiny app for PCR library sequencing analysis.
