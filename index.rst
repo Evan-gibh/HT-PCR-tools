@@ -7,4 +7,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   get_start.rst
+   get_started
